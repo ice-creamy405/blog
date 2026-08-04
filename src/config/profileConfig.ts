@@ -30,20 +30,14 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "https://github.com/ice-creamy405",
 			showName: false,
 		},
-		{
-			name: "Email",
-			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
-			showName: false,
-		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
-			showName: false,
-		},
+		//{
+			//name: "Email",
+			//icon: "fa7-solid:envelope",
+			//url: "3910427010@qq.com",
+			//showName: false,
+		//},
 	],
 };
