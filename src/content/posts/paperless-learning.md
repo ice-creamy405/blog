@@ -3,7 +3,7 @@ title: 快速进入无纸化笔记指南
 published: 2026-08-05
 pinned: true
 description: "大二为大一新生提供的指南，学校社区投稿"
-image: "./images/cover1"
+image: "./images/cover1.avif"
 tags: ["learning", "Markdown"]
 category: learning
 ---
