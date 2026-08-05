@@ -8,7 +8,7 @@
 
 本博客为作者自用，记录学习生活，以及随意的想法
 
-作者二次元小白，本站二次元因素指导 **(◣_◢)** 
+作者二次元小白一枚，本站二次元因素指导 **(◣_◢)** <img src="./p1.avif" width=28 style = "display:inline;vertical-align:middle;">
 
 
 **⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
