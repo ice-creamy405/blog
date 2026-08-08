@@ -44,3 +44,21 @@ category: learning
 - 同步问题：开通会员可以简单的进行多设备的同步，但是很贵。可以选择OneDrive等进行同步。也可以直接发布（B站有丰富的教程）
 - 双链模式：可以直接由一个文件到另一个，方便进行知识的拓展，我主要利用双链进行英语的学习，可以进行单词的用法拓展、作文的模板使用等。
 - 模板：适合leetcode刷题，提前做好模板，每次可以直接调用，方便记录自己每次做题时的解法与思考。
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="ice-creamy405/blog"
+        data-repo-id="R_kgDOTsZHBg"
+        data-category="General"
+        data-category-id="DIC_kwDOTsZHBs4DC7cK"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
