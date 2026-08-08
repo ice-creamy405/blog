@@ -58,3 +58,20 @@ category: learning
 - 午饭 在宽窄巷子观察肚子容量，本小姐可以选择不吃~
 - 武侯祠（门票，似乎需要提前 （通勤39分钟）
 - 锦里夜市 （蜀大侠成都火锅？ 看情况，成都火锅也许和重庆火锅不同）（老妈烤蹄花，锦城鸡豆花）（tips：火锅吃还是不吃，this is a question)  
+  
+  <script src="https://giscus.app/client.js"
+        data-repo="ice-creamy405/blog"
+        data-repo-id="R_kgDOTsZHBg"
+        data-category="General"
+        data-category-id="DIC_kwDOTsZHBs4DC7cK"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
